@@ -35,16 +35,26 @@ I used to developed several game but I quit a while in game dev journey for a fe
 
 ## 🌟 Community
 Connect with us on **Discord** and join our amazing community:  
-🗣️ [Discord Server](https://discord.gg/ySCGdyArHb)
+[Discord Community Server](https://discord.gg/ySCGdyArHb) <br>
+[Github Discussion Community](https://github.com/orgs/Ikhode-Technologies/discussions) <br>
+[Ikhode Community Official Web Application](https://community.ikhode.com/) <br>
 
 ---
 
-## 🔗 Social Media & Platforms
+## 🔗 Developed Applications
 Stay updated and explore more about Ikhode Studio:
-
-- ▶️ [YouTube](https://www.youtube.com/@IkhodeStudio) - `https://www.youtube.com/@IkhodeStudio`  
-- 🖼️ [ArtStation](https://www.artstation.com/ikhode) - `https://www.artstation.com/ikhode`  
-- 📤 [Facebook Page](https://web.facebook.com/IkhodeStudio) - `https://web.facebook.com/IkhodeStudio`  
-- 🔍 [ResearchGate](https://www.researchgate.net/profile/Soy-Tet-2) - `https://www.researchgate.net/profile/Soy-Tet-2`  
-
+<a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" >
+  <table>
+    <tr>
+      <td>
+        <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer">
+          <img width="100" src="https://github.com/user-attachments/assets/3a6dd7e4-2255-43f1-87fb-ddd92448752b">
+        </a>
+      </td>
+      <td>
+        The Voice AI Voice Changer gives you the power to change your voice in upload and record in web application for a whole bunch of character in khmer real voice tune.
+      </td>
+    </tr>
+  </table>
+</a>
 ---
