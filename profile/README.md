@@ -22,7 +22,7 @@
       </a>
     </td>
     <td>
-      I'm a <strong>Software Developer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
+      I'm a <strong>Software Engineer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
       I'm currently exploring <strong>AI solutions</strong> and working with <strong>modern tech stacks</strong>. I'm also on a journey to level up my 
       <strong>Spaghetti Code</strong> skills. Support us by make some donate and I really appricate that.
       <br><br>
