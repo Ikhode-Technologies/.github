@@ -18,15 +18,14 @@
   <tr>
     <td>
       <a href="https://www.ikhode.site/">
-        <img width="450" src="https://github.com/user-attachments/assets/26e6d19d-7fb6-4a0d-a1f2-ce976aaf0cd4" alt="Profile Image">
+        <img width="220" src="https://github.com/user-attachments/assets/26e6d19d-7fb6-4a0d-a1f2-ce976aaf0cd4" alt="Profile Image">
       </a>
     </td>
     <td>
       I'm a <strong>Software Engineer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
       I'm currently exploring <strong>AI solutions</strong> and working with <strong>modern tech stacks</strong>. I'm also on a journey to level up my 
-      <strong>Spaghetti Code</strong> skills. Support us by make some donate and I really appricate that.
-      <br><br>
-      Got a question? Feel free to <a href="https://bio.ikhode.site/">contact me anytime</a>.
+      <strong>Spaghetti Code</strong> skills.
+      <br>
     </td>
   </tr>
 </table>
