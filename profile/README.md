@@ -13,12 +13,11 @@
 <!-- Short Bio -->
 <!-- </samp> for  -->
 ![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
-
 <table>
   <tr>
     <td>
-      <a href="https://www.ikhode.site/">
-        <img width="220" src="https://github.com/user-attachments/assets/26e6d19d-7fb6-4a0d-a1f2-ce976aaf0cd4" alt="Profile Image">
+      <a href="https://community.ikhode.com/">
+        <img width="150" src="https://github.com/user-attachments/assets/18452de0-71a2-48b7-92f2-4af4380116f3" alt="Profile Image">
       </a>
     </td>
     <td>
@@ -30,7 +29,7 @@
   </tr>
 </table>
 
- --------------------------------------------------------------------
+--------------------------------------------------------------------
 I used to developed several game but I quit a while in game dev journey for a few years ago and I really happy to see everyone do it. now aday I'm currently working and studying in AI and Web Development fields. so yeah I still don't know what I'm doing hahha, just random stuff. just do what you love and try your best.
 
 ## 🌟 Community
