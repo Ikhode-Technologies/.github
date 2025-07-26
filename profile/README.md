@@ -32,9 +32,6 @@ Stay updated and explore more about Ikhode Studio:
           <img width="100" src="https://github.com/user-attachments/assets/3a6dd7e4-2255-43f1-87fb-ddd92448752b">
         </a>
       </td>
-      <td>
-        The Voice AI Voice Changer gives you the power to change your voice in upload and record in web application for a whole bunch of character in khmer real voice tune.
-      </td>
     </tr>
   </table>
 </a>
