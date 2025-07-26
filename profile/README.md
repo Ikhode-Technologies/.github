@@ -1,4 +1,4 @@
-<h1> Hello 👋, I hope u found somthing cool here</h1>
+#### Hello 👋, I hope we found somthing cool together
 
 <!-- Header Links -->
 [![Portfolio](https://img.shields.io/badge/-artstation-blue?style=flat&logo=artstation&logoColor=white)](https://www.artstation.com/ikhode)
@@ -10,38 +10,33 @@
 ![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
 <p> 
   I'm a <strong>Software Engineer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
-  I'm currently exploring <strong>AI solutions</strong> and working with <strong>modern tech stacks</strong>. I'm also on a journey to level up my 
-  <strong>Spaghetti Code</strong> skills.
   <br>
 </p>
 ---
 
-## 🌟 Community
+### Community
 Connect with us on **Discord** and join our amazing community:  
 [Discord Community Server](https://discord.gg/ySCGdyArHb) <br>
 [Github Discussion Community](https://github.com/orgs/Ikhode-Technologies/discussions) <br>
 [Ikhode Community Official Web Application](https://community.ikhode.com/) <br>
 
-## 🔗 Developed Applications
-Stay updated and explore more about Ikhode Studio:
-
+### Developed Applications
+I've successfully built several production-ready applications
 <div align="left">
 
   <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" style="display:inline-block;">
     <img width="70" src="https://github.com/user-attachments/assets/3114c7b7-2de8-4ed2-920c-66ce61551ec4">
   </a>&nbsp;&nbsp;
 
-  <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" style="display:inline-block;">
+  <a href="https://my-kh-location.vercel.app/" style="display:inline-block;">
     <img width="70" src="https://github.com/user-attachments/assets/ce533cb4-2928-4221-9d37-4873848a4d00">
   </a>&nbsp;&nbsp;
 
-  <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" style="display:inline-block;">
+  <a href="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45" style="display:inline-block;">
     <img width="70" src="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45">
   </a>
 
 </div>
-
----
 
 
 <!-- Activity Graph card -->
