@@ -24,17 +24,23 @@ Connect with us on **Discord** and join our amazing community:
 
 ## 🔗 Developed Applications
 Stay updated and explore more about Ikhode Studio:
-<a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" >
-  <table>
-    <tr>
-      <td>
-        <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer">
-          <img width="100" src="https://github.com/user-attachments/assets/3a6dd7e4-2255-43f1-87fb-ddd92448752b">
-        </a>
-      </td>
-    </tr>
-  </table>
-</a>
+
+<div align="left">
+
+  <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" style="display:inline-block;">
+    <img width="70" src="https://github.com/user-attachments/assets/3114c7b7-2de8-4ed2-920c-66ce61551ec4">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" style="display:inline-block;">
+    <img width="70" src="https://github.com/user-attachments/assets/ce533cb4-2928-4221-9d37-4873848a4d00">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://rdlabcenter.vercel.app/app/voice-ai-changer" style="display:inline-block;">
+    <img width="70" src="https://github.com/user-attachments/assets/89ef2b6a-be0e-421e-8c38-8b7addee3c45">
+  </a>
+
+</div>
+
 ---
 
 
