@@ -7,12 +7,12 @@
 
 <!-- Short Bio -->
 <!-- </samp> for  -->
-![image](https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f)
-<p> 
-  I'm a <strong>Software Engineer</strong> who passionate about <strong>coding</strong> and building tools that help people with their daily tasks.
-  <br>
-</p>
+<img src="https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f" width="100%">
+
+I'm a **Software Engineer** who is passionate about **coding** and building tools that help people with their daily tasks.
+
 ---
+
 
 ### Community
 Connect with us on **Discord** and join our amazing community:  
