@@ -11,9 +11,6 @@
 
 I'm a **Software Engineer** who passionate on **coding** and build somethings to minimal people job.
 
----
-
-
 ### Community
 Connect with us on **Discord** and join our amazing community:  
 [Discord Community Server](https://discord.gg/ySCGdyArHb) <br>
