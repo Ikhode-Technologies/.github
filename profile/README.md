@@ -9,7 +9,7 @@
 <!-- </samp> for  -->
 <img src="https://github.com/user-attachments/assets/5470ded5-b424-4c79-8125-03b658a4291f" width="100%">
 
-I'm a **Software Engineer** who is passionate about **coding** and building tools that help people with their daily tasks.
+I'm a **Software Engineer** who passionate on **coding** and build somethings to minimal people job.
 
 ---
 
