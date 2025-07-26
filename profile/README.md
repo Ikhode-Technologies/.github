@@ -46,8 +46,7 @@ I've successfully built several production-ready applications
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![Static Badge](https://img.shields.io/badge/Show%20some%20%E2%9D%A4%EF%B8%8F%20by%20%E2%AD%90%20repositories%20you%20find%20helpful!%20-05122A)
+
 ![GitHub followers](https://img.shields.io/github/followers/MyKhode?style=flat&logo=github&color=05122A&labelColor=05122A)
 ![Profile Views](https://komarev.com/ghpvc/?username=MyKhode&style=flat&labelolor=05122A&color=05122A)
 
